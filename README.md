@@ -1,3 +1,13 @@
+## Infinite-scroll-with-react-and-node
+This project is  implementing infinite scrolling with react and node.js 
+
+## propose for This project
+I created this project to learn and  implement Infinite scrolling in react and node.js, content creation for others including You🙂🌝
+
+## Project Image
+![Screenshot (193)](https://user-images.githubusercontent.com/104143398/217678864-d0926410-d180-4524-b83c-5530a0ed66de.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,13 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Infinite-scroll-with-react-and-node
-This project is  implementing infinite scrolling with react and node.js 
-
-# propose for This project
-I created this project to have learn creating Infinite scrolling
-
-# Project Image
-![Screenshot (193)](https://user-images.githubusercontent.com/104143398/217678864-d0926410-d180-4524-b83c-5530a0ed66de.png)
 
